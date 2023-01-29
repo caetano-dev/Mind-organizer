@@ -1,8 +1,11 @@
 Completed tasks:
-[x] completed
+[x] completed task
 
 To-do's:
+[] task one
 [] to-do
+[] and another one
 
 Ideas:
-- idea
+- Idea 1
+- awesome idea
