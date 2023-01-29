@@ -71,6 +71,6 @@ fn write_lines(filename: &str, lines: Vec<String>) {
     writer.flush().unwrap();
 }
 fn main() {
-    let lines = read_lines("file.txt");
-    write_lines("file.txt", lines);
+    let lines = read_lines("file.md");
+    write_lines("file.md", lines);
 }
